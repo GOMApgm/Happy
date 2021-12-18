@@ -58,6 +58,7 @@ main h1 {
     background-image: url("bg.png");
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 80%;
   }
   
   header {
