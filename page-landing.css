@@ -58,7 +58,7 @@ main h1 {
     background-image: url("bg.png");
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: right 100px;
+    background-position: right;
   }
   
   header {
