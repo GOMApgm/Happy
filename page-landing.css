@@ -55,7 +55,7 @@ main h1 {
 @media (min-width: 760px) {
 
   #container {
-    background: url("bg.png") no-repeat;
+    background-image: url("bg.png");
   }
   
   header {
